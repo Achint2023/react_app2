@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  flex: 1;
 }
 
 .App-logo {
@@ -36,3 +37,7 @@
     transform: rotate(360deg);
   }
 }
+
+/* #concepts {
+  flex-direction: column;
+} */
